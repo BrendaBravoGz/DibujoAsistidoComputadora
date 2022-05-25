@@ -29,4 +29,7 @@ img{
     .carousel-inner{
         height: 130px;
     }
+    img{
+    height: 100px;
+}
   }

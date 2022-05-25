@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.row{
+    background-color: #B6B8D6;
+}
+.container-fluid{
+    background-color: #B6B8D6;
+    padding: 50px 0px;
+}
+h1, h3,h4,p{
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    color: #39393A;
+}
+.text{
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    font-weight: bold;
+    color: #39393A;
+}
+img{
+    height: 600px;
+}
+
+
+@media (max-width: 600px) {
+    .carousel-inner{
+        height: 130px;
+    }
+  }
